@@ -1,12 +1,12 @@
 
 # iNeuron Full Stack Data Science:
 
-### 1. Python Assignments
+### 1. Python Assignments    
 - [Python Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Assignments)
-- [Python Programming Basic (6/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Basics%20Programming%20Assignments)
+- [Python Programming Basic (9/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Basics%20Programming%20Assignments)
 - [Python Advance (0/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Advance)
 - [Python Advance Programming (0/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Advance%20Programming)
-### 2. Business Analytics Assignments
+### 2. Business Analytics Assignments 
 - [Excel (0/10)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Excel)
 - [SQL (0/10)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/SQL)
 - [Statistics (0/10)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Statistics)
@@ -18,7 +18,7 @@
 ### 3. Machine Learning
 - [Machine Learning (0/24)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Machine%20Learning)
 - [Machine Learning Practical (0/10)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Machine%20Learning%20Practical)
-### 4. DL-CV-NLP
+### 4. DL-CV-NLP 
 - [Computer Vision Assignment (0/12)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Computer%20Vision%20Assignment)
 - [DL And CV Practical Assignment (0/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/DL%20And%20CV%20Practical%20Assignment)
 - [Deep Learning Assignment (0/16)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Deep%20Learning%20Assignment)
@@ -26,3 +26,5 @@
 
 #### Reference
 - https://github.com/amanovishnu/iNeuron-Full-Stack-Data-Science-Assignments
+
+
