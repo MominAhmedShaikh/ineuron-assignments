@@ -2,7 +2,7 @@
 # iNeuron Full Stack Data Science:
 ### 1. Python Assignments   
 
-![](https://progress-bar.dev/42/?scale=100&title=completed&suffix=%)
+![](https://progress-bar.dev/48/?scale=100&title=completed&suffix=%)
   
 - [Python Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Assignments)
 - [Python Programming Basic (17/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Basics%20Programming%20Assignments)
