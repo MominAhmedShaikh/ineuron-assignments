@@ -2,12 +2,12 @@
 # iNeuron Full Stack Data Science:
 ### 1. Python Assignments   
 
-![](https://progress-bar.dev/52/?scale=100&title=completed&suffix=%)
+![](https://progress-bar.dev/55/?scale=100&title=completed&suffix=%)
   
 - [Python Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Assignments)
 - [Python Programming Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Basics%20Programming%20Assignments)
 - [Python Advance (0/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Advance)
-- [Python Advance Programming (4/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Advance%20Programming)
+- [Python Advance Programming (7/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Advance%20Programming)
 ### 2. Business Analytics Assignments 
 
 ![](https://progress-bar.dev/0/?scale=100&title=completed&suffix=%)
