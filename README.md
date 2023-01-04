@@ -6,7 +6,7 @@
   
 - [Python Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Assignments)
 - [Python Programming Basic (25/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Basics%20Programming%20Assignments)
-- [Python Advance (0/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Python%20Advance)
+- [Python Advance (1/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Advance)
 - [Python Advance Programming (7/25)](https://github.com/MominAhmedShaikh/ineuron-assignments/tree/main/Assignments%20Folder/Python%20Advance%20Programming)
 ### 2. Business Analytics Assignments 
 
